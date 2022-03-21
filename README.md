@@ -25,4 +25,4 @@ uvicorn fastapi-primedata.main:app --reload
 ```
 Then, go through Swagger UI: http://127.0.0.1:8000/docs
 
-![](https://github.com/duythinbmt/fastapi-primedata/docs/swagger.png)
+![](https://github.com/duythinbmt/fastapi-primedata/blob/main/docs/swagger.png?raw=true)
