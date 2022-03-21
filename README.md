@@ -7,7 +7,7 @@ Build a Launch Ordering Webapp with FastAPI
 - Database host: Heroku
 
 ## Schemas
-
+![](https://github.com/duythinbmt/fastapi-primedata/blob/main/docs/schemas.png?raw=true)
 ## Getting Started
 ### Prerequisites
 ```
