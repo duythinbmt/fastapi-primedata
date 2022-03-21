@@ -1,5 +1,12 @@
 # About the project
 Build a Launch Ordering Webapp with FastAPI
+## Technology
+- API: FastAPI 
+- Database: Postgres
+- Language: Python 3
+- Database host: Heroku
+
+## Schemas
 
 ## Getting Started
 ### Prerequisites
